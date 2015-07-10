@@ -1,0 +1,17 @@
+RunTestDb=Info
+RunTestValidation=Info
+RunTestWorkflow=Info
+eclipse.preferences.version=1
+endpointApiVersion=33.0
+endpointEnvironment=Production/Developer Edition
+endpointServer=www.salesforce.com
+httpsProtocol=true
+ideVersion=33.0
+keependpoint=false
+metadataFormatVersion=33.0
+namespacePrefix=
+packageName=unpackaged
+preferToolingDeployment=true
+projectIdentifier=IDE6380190192077590014
+readTimeout=400
+username=vaishali.varma@eternussolutions.com
